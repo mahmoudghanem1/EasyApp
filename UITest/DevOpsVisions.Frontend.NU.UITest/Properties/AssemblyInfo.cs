@@ -1,5 +1,5 @@
 using System.Reflection;
-using System.Runtime.CompilerServices;
+using System.Runtime.name;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("DevOpsVisions.Frontend.NU.UITest")]
